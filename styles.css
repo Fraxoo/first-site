@@ -1,11 +1,20 @@
 body {
-    background-color: black;
+    background-image: url(image/beautiful-red-background-wallpapers-for-desktop_Lea.jpg);
 }
 
 *{
     text-align: center;
-    color: red;
+    color: white;
 }
+
+h1{
+ border-radius: 25px;
+  background:black;
+  padding: 20px;
+
+  background-size: auto;
+}
+
 
 p{
     font-size: 1.2rem;;
