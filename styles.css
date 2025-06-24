@@ -17,5 +17,9 @@ h1{
 
 
 p{
-    font-size: 1.2rem;;
+    font-size: 1.2rem;
+}
+
+.trailer {
+    font-size: 3rem;
 }
